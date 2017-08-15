@@ -1,4 +1,4 @@
-![Kotlin image](http://kotlin.es/images/android/android_kotlin.png)
+![Kotlin image](https://www.paradigmadigital.com/wp-content/uploads/2017/05/original.png)
 
 # Kotlin-Learnig-Resources
 
@@ -7,11 +7,14 @@
 - [Antonio Leiva Kotlin Series] (https://antonioleiva.com/kotlin-for-android-introduction/)
 - []
 
-
 ## Learning Books
 
 - [Kotlin for Android Developers](https://devexperto.com/kotlin-android-developers-libro/)
 - [Kotlin in Action](https://www.amazon.es/Kotlin-Action-Dmitry-Jemerov/dp/1617293296)
+
+## Podcast
+
+- [Fragmented Podcast](http://fragmentedpodcast.com/tag/kotlin/)
 
 ## Kotlin Talks
 
