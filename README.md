@@ -4,8 +4,7 @@
 
 ## Blogs and tutorials
 
-- [Antonio Leiva Kotlin Series] (https://antonioleiva.com/kotlin-for-android-introduction/)
-- []
+- [Antonio Leiva Kotlin Series](https://antonioleiva.com/kotlin-for-android-introduction/)
 
 ## Learning Books
 
@@ -18,7 +17,10 @@
 
 ## Kotlin Talks
 
+- [Video Collection REALM Academy Kotlin](https://academy.realm.io/posts/learning-path-kotlin-in-depth/)
+- [Introduction to kotlin Google I/O](https://www.youtube.com/watch?v=X1RVYt2QKQE)
 - [Victoria Gonda](https://academy.realm.io/posts/kotlin-does-java-droidcon-boston-2017-gonda/)
+- [Jake Wharton Google I/O](https://www.youtube.com/watch?v=fPzxfeDJDzY)
 
 ## Repositories
 
